@@ -1,4 +1,6 @@
 # Tic Tac Toe
+![image](https://github.com/Mazen-Omar/Tic-Tac-game/assets/112568201/32ea2bf6-f905-4348-991c-73eeaa337b3c)
+
 ## Brief 
 The game is played on a 3x3 grid. There are two modes in this game:
 1) Computer mode : where you play against the machine.
