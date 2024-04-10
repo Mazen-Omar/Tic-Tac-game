@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1712787343 source:d:\study\courses\embedded_systems\c_programming\projects\tic_tac_game\tic_tac_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tic_tac.h"
+
+1712786852 source:d:\study\courses\embedded_systems\c_programming\projects\tic_tac_game\tic_tac_game\tic_tac.c
+	"tic_tac.h"
+
+1712783914 d:\study\courses\embedded_systems\c_programming\projects\tic_tac_game\tic_tac_game\tic_tac.h
+
